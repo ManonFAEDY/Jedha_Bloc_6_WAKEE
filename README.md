@@ -22,7 +22,7 @@ To run WAKEE locally, follow these steps:
 
 - Clone the repository:
 ```bash
-git clone [https://github.com/ManonFAEDY/Jedha_Bloc_6_WAKEE](https://github.com/ManonFAEDY/Jedha_Bloc_6_WAKEE.git)
+git clone https://github.com/ManonFAEDY/Jedha_Bloc_6_WAKEE.git
 cd jedhaproject_tdahdetection
 ```
 
