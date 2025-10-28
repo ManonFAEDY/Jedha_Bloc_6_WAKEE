@@ -6,3 +6,4 @@ onnxruntime==1.20.1
 torchvision
 langchain_core
 langchain_mistralai
+streamlit
